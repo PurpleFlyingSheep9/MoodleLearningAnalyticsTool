@@ -1,0 +1,16 @@
+How to use this tool:
+
+1. Click on *Load Data*
+(the data is loaded, no visible feedback)
+
+2. Click on *Predict* 
+(this button loads the trained model)
+
+3. Choose a student from 
+the list of student IDs. (the textbox will 
+show the predicted grade for the selected 
+student)
+
+4.Click on *How to Improve* 
+to get advice on how to improve from your 
+predicted grade.
